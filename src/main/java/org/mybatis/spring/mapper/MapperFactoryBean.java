@@ -88,6 +88,7 @@ public class MapperFactoryBean<T> extends SqlSessionDaoSupport implements Factor
   }
 
   /**
+   * <p>获取 mapper 代理对象。</p>
    * {@inheritDoc}
    */
   @Override
